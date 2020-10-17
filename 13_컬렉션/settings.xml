@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>프로그램 설정</comment>
+<entry key="height">200px</entry>
+<entry key="color">green</entry>
+<entry key="projectName">352Fighting!</entry>
+<entry key="width">300px</entry>
+</properties>

@@ -1,0 +1,6 @@
+#\uD504\uB85C\uADF8\uB7A8 \uC124\uC815
+#Tue Sep 01 16:30:14 KST 2020
+height=200px
+color=green
+projectName=352Fighting\!
+width=300px
